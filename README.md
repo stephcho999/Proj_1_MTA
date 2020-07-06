@@ -64,3 +64,13 @@ Below are the most popular bike stations close to these MTA stations.
 
 # Conclusion
 
+Public transportation has been disrupted. Who knows if people will resume riding the MTA? 
+
+What citibike <em>can</em> do, is try to capture the market that MTA lost by focusing on bike stations that are close in proximity to these affected stations.
+
+Citibike can do promotions on these bike stations by offering discounted prices for first time riders.
+
+In addition to that, CitiBike can resassure that these bikes are sanitized by a mobile cleaning crew. 
+
+
+
