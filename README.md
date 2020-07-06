@@ -31,7 +31,19 @@
 
 # 2.How CitiBike can respond to COVID-19's effects
 
-![close_citibike_to_top_mta](/images/close_citibike_to_top_mta.svg)
-<p align="center>tesasdsadsadt</p>
+We wanted to see how the top MTA stations in 2019 were affected by COVID-19.
+First, we looked at the top 50 MTA stations in 2019 according to sum of their daily entries.
 
-asdsadsad
+Then, we calculated the percentage difference between 2019 and 2020 for those top 50 MTA stations.
+
+
+
+![close_citibike_to_top_mta](/images/top_mta_station_largest_avg_weekly_dec.jpeg)
+
+# 123 test
+<p>Test</p>
+
+# 123 test
+<center><p>Center test</p></center>
+![close_citibike_to_top_mta](/images/close_citibike_to_top_mta.svg)
+
