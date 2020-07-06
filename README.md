@@ -97,6 +97,8 @@ What citibike <em>can</em> do, is try to capture the market that MTA lost by foc
 
 Citibike can do promotions on these bike stations by offering discounted prices for first time riders.
 
+
+
 In addition to that, CitiBike can reassure that these bikes are sanitized by a mobile cleaning crew. 
 
 
