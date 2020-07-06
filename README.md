@@ -32,4 +32,4 @@
 # 2.How CitiBike can respond to COVID-19's effects
 
 
-![Recommended Stations](/images/close_citibike_to_top_mta.jpeg)
+![Recommended Stations](/images/close_citibike_to_top_mta.svg)
