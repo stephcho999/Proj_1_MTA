@@ -24,6 +24,19 @@
 
 # 1.Effects of COVID-19 on MTA & CitiBike
 
+![daily_mta_changes](/images/daily_mta_19_20.jpeg)
+
+<h4 align="center"><em>Daily MTA Entries 2019 & 2020 </em></h4> 
+
+<p>There's a pronounced decrease in MTA entries due to COVID-19. It seems like there's a decrease in millions between the EU travel ban announcement and the "15 days" announcement</p>
+
+![daily_citibike_changes](/images/daily_citi_bikes_19_20_total.jpeg)
+
+<h4 align="center"><em>Daily Citibike Entries 2019 & 2020 </em></h4> 
+
+<p>Citibike is also affected,but recovers much better then the MTA </p>
+
+
 ![daily_citibike_percent](/images/daily_pct_chge_mta_bike_19_20.jpeg)
 
 <h4 align="center"><em>Daily CitiBike & MTA Change 2019 - 2020 </em></h4> 
