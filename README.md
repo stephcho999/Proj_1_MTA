@@ -24,6 +24,14 @@
 
 # 1.Effects of COVID-19 on MTA & CitiBike
 
+![daily_citibike_percent](/images/daily_pct_chge_mta_bike_19_20.jpeg)
+
+<h4 align="center"><em>Daily CitiBike & MTA Change 2019 - 2020 </em></h4> 
+
+<p>If we take a look at the daily % change in CitiBike & MTA we see a sharp % decrease in daily rides.</p>
+<p>However, Citibike seems to be affected less. </p>
+
+
 
 
 
@@ -70,7 +78,7 @@ What citibike <em>can</em> do, is try to capture the market that MTA lost by foc
 
 Citibike can do promotions on these bike stations by offering discounted prices for first time riders.
 
-In addition to that, CitiBike can resassure that these bikes are sanitized by a mobile cleaning crew. 
+In addition to that, CitiBike can reassure that these bikes are sanitized by a mobile cleaning crew. 
 
 
 
