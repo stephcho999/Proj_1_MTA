@@ -36,14 +36,31 @@ First, we looked at the top 50 MTA stations in 2019 according to sum of their da
 
 Then, we calculated the percentage difference between 2019 and 2020 for those top 50 MTA stations.
 
+![mta_largest_avg_weekly_dec](/images/top_mta_station_largest_avg_weekly_dec.jpeg)
+
+<h3 align="center">Top MTA Stations with the largest average weekly % decrease</h3> 
+
+Once we found these affected MTA stations, we looked at the CitiBike data and found which rides had starting stations close to these MTA stations.
+
+Below are the most popular bike stations close to these MTA stations.
+
+<ul>
+	<li> E 39 St & 2 Ave </li>
+	<li> 8 Ave & W 33 St </li>
+	<li> W 33 St & 7 Ave </li>
+	<li> Pershing Square North </li>
+	<li> 8 Ave & W 31 St </li>
+	<li> Broadway & W 60 St</li>
+	<li> 6 Ave & W 33 St</li>
+	<li> W 26 St & 8 Ave</li>
+	<li> Broadway & W 41 St</li>
+	<li> W 38 St & 8 Avenue </li>
+</ul>
 
 
-![close_citibike_to_top_mta](/images/top_mta_station_largest_avg_weekly_dec.jpeg)
+![citi_bike_closest](/images/close_citibike_to_top_mta.svg)
 
-# 123 test
-<p>Test</p>
+<h4 align="center"><em>Closest CitiBike Stations to affected MTAs</em></h4> 
 
-# 123 test
-<center><p>Center test</p></center>
-![close_citibike_to_top_mta](/images/close_citibike_to_top_mta.svg)
+# Conclusion
 
