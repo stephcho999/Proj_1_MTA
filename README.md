@@ -44,6 +44,12 @@
 <p>If we take a look at the daily % change in CitiBike & MTA we see a sharp % decrease in daily rides.</p>
 <p>However, Citibike seems to be affected less. </p>
 
+![citibike_animationt](/images/citibike_animation.gif)
+
+<h4><em>Citibike's small recovery despite COVID-19 (Animated)**</em></h4> 
+
+<p>Even though COVID-19 affected CitiBike, it still was able to have a small recovery later in the year.</p>
+<p><em>**Reload the browser, to see the animation over time</em></p>
 
 
 
