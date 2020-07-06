@@ -31,5 +31,7 @@
 
 # 2.How CitiBike can respond to COVID-19's effects
 
+![close_citibike_to_top_mta](/images/close_citibike_to_top_mta.svg)
+<p align="center>tesasdsadsadt</p>
 
-![Recommended Stations](/images/close_citibike_to_top_mta.svg)
+asdsadsad
