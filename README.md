@@ -1,5 +1,5 @@
 # CitiBike & MTA Exploratory Data Analysis 
-## by Sam Mize, Stephen Cho, and Justin Chan
+#### by Sam Mize, Stephen Cho, and Justin Chan
 
 ## Motivations
 
